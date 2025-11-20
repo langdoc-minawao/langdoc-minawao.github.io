@@ -16,6 +16,7 @@ Meet our international and interdisciplinary team.
 - **Deli Timothi** — Cinene transcriber
 - **Saratu Yakubu** — Dghwede transcriber
 - **Andrawus Peter** — Dghwede transcriber
+- **Lydia Anthony** — Dghwede transcriber
 - **Izza Bukar** — Video production assistant
 
 ### Collaborators & Advisors
