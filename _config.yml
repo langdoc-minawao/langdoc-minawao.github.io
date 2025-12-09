@@ -8,3 +8,7 @@ plugins:
 
 markdown: kramdown
 
+title: Langdoc–Minawao
+show_title: false
+
+
