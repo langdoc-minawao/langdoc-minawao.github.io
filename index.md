@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Langdoc–Minawao"
+title: "Language documentation in Minawao"
 ---
 
 # 🗣️🌎 Welcome to the Project "Documentation of Chinene and Dghwede in the language ecology of the UNHCR camp of Minawao, Cameroon"
