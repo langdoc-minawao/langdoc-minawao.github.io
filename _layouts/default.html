@@ -16,7 +16,9 @@
   <body>
 
     <header>
-      <h1><a href="/">{{ page.title }}</a></h1>
+        {% if site.show_title != false %}
+        <h1 class="page-title">{{ page.title }}</h1>
+        {% endif %}
 
       <nav>
         <a href="/">Home</a>
