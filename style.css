@@ -42,6 +42,19 @@ nav a:hover {
   transform: scale(1.03);
 }
 
+.photo-gallery figure {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.photo-gallery figcaption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #555;
+}
+
 /* TEAM GRID */
 .profile-grid {
   display: grid;
