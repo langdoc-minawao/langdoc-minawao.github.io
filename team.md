@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Team"
+permalink: /team/
+---
+
 # 👥 Our Team
 
 Meet our international and interdisciplinary team.  
