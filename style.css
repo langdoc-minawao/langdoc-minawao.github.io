@@ -69,3 +69,8 @@ nav a:hover {
   font-size: 0.9rem;
   color: #555;
 }
+
+/* Hide big homepage title from minima */
+.home h1 {
+  display: none;
+}
