@@ -1,14 +1,11 @@
-title: "Langdoc-Minawao"
+title: "Language documentation in Minawao"
 description: "Documentation and sociolinguistic research in the UNHCR camp of Minawao, Cameroon"
-theme: minima
+
+# REMOVE this because you are not using Minima templates anymore
+# theme: minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 markdown: kramdown
-
-title: Langdoc–Minawao
-show_title: true
-
-

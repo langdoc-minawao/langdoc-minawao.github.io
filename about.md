@@ -14,7 +14,7 @@ Since its establishment in June 2013, the UNHCR camp of Minawao (Far-North Regio
 
   <figure>
     <img src="/assets/project-photos/Map1-PlacesOfOrigin.jpg" alt="Map of refugees' places of origin">
-    <figcaption>Map of refugees' places of origin</figcaption>
+    <figcaption>Map of refugees' places of origin (modified from doi:10.1017/S0001972014000382)</figcaption>
   </figure>
 </div>
 
