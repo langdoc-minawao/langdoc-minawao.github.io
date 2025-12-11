@@ -5,10 +5,20 @@ permalink: /team/
 
 # 👥 Our Team
 
-Meet our international and interdisciplinary team.  
+<div class="photo-gallery">
+  <figure>
+    <img src="/assets/collaborators/IMG20251001125939.jpg" alt="The team with Cinene and Dghwede community leaders">
+    <figcaption>The team with Cinene and Dghwede community leaders (1 Oct 2025)</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/collaborators/MarouaTeamPhoto.jpg" alt="Our first team photo at the end of the 5-day training on documentary tools and techniques">
+    <figcaption>Our first team photo at the end of the 5-day training on documentary tools and techniques (27 Sep 2025)</figcaption>
+  </figure>
+</div>
 
 ### Core Team
-- **Pierpaolo Di Carlo** — Principal Investigator — [pierpaol@github](https://github.com/username)  
+- **Pierpaolo Di Carlo** — Principal Investigator — [email](mailto:pierpaolo.dicarlo@unior.it)  
 - **Ndokobai Dadak** — Senior Research Assistant  
 - **Goudi John** — Chief transcriber   
 - **James Bitrus** — Metadata manager
@@ -20,6 +30,7 @@ Meet our international and interdisciplinary team.
 - **Tani Daniel** — Cinene transcriber
 - **Deli Timothi** — Cinene transcriber
 - **Saratu Yakubu** — Dghwede transcriber
+- **Nglemoh Ishaku Yakubu** - Dghwede transcriber
 - **Andrawus Peter** — Dghwede transcriber
 - **Lydia Anthony** — Dghwede transcriber
 - **Izza Bukar** — Video production assistant
