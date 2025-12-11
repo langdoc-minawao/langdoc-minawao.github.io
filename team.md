@@ -1,9 +1,8 @@
 ---
 layout: page
+title: "Our Team"
 permalink: /team/
 ---
-
-# 👥 Our Team
 
 <div class="photo-gallery">
   <figure>
