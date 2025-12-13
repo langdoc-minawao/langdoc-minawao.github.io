@@ -19,12 +19,12 @@ permalink: /team/
 ### Core Team
 - **Pierpaolo Di Carlo** — Principal Investigator — [email](mailto:pierpaolo.dicarlo@unior.it)  
 - **Ndokobai Dadak** — Senior Research Assistant  
-- **Goudi John** — Chief transcriber   
-- **James Bitrus** — Metadata manager
-- **Musa Ibrahim Dzghra** — Team manager
+- **Musa Ibrahim Dzamghra** — Team manager
 - **Ishaku Andrawus** — Video production manager
 - **Soul Philemon** — Network manager
+- **James Bitrus** — Metadata manager
 - **Garba John** — Internet-in-a-Box manager
+- **Goudi John** — Transcription manager   
 - **Ibrahim Bitrus** — Cinene transcriber
 - **Tani Daniel** — Cinene transcriber
 - **Deli Timothi** — Cinene transcriber
