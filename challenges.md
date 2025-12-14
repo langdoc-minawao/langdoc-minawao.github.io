@@ -23,7 +23,7 @@ Life in a refugee camp is marked by a deep lack—not only of resources, but of 
 
 This is exactly why the outputs of our project need to be returned to the community quickly and in ways that people can actually use. **If knowledge is collected in the camp, it must be fully accessible in the camp. And it must be available while the work is happening, not years later. Storing project data in specialized online archives is fundamental, too, but serves mainly other purposes that have very often little to do with the communities that produced the data**. 
 
-To make this possible, we are exploring [Internet-In-A-Box](https://github.com/langdoc-minawao/IIAB) and other local, offline tools. They allow project materials to be stored and accessed directly inside the camp, even without electricity and an internet connection. It’s a simple step, but one that helps build trust and ensures that our work genuinely serves the people who make it possible.
+To make this possible, we are exploring [Internet-In-A-Box](https:///langdoc-minawao.github.io/IIAB) and other local, offline tools. They allow project materials to be stored and accessed directly inside the camp, even without electricity and an internet connection. It’s a simple step, but one that helps build trust and ensures that our work genuinely serves the people who make it possible.
 
 
 
